@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">260185055313-e3ikaoaeo4is06ja14tqljpatnroj628.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://platzitripsflutter-bec5e.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">260185055313</string>
-    <string name="google_api_key" translatable="false">AIzaSyC0MMKGfcDLBYz0eDhq2xogA3oJjYd0iHA</string>
-    <string name="google_app_id" translatable="false">1:260185055313:android:80d3dd1ca61cb156</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0MMKGfcDLBYz0eDhq2xogA3oJjYd0iHA</string>
-    <string name="google_storage_bucket" translatable="false">platzitripsflutter-bec5e.appspot.com</string>
-    <string name="project_id" translatable="false">platzitripsflutter-bec5e</string>
+    <string name="default_web_client_id" translatable="false">744903588864-q607ev7pg8lie4fkhmgoum1klc97a3te.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://platzitripsandroid-f4595.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">744903588864</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWsmqEnlRPzkiQ8ME0dDRyDFWE2xmQZUg</string>
+    <string name="google_app_id" translatable="false">1:744903588864:android:d9893299bba7d9ab0d2ce5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWsmqEnlRPzkiQ8ME0dDRyDFWE2xmQZUg</string>
+    <string name="google_storage_bucket" translatable="false">platzitripsandroid-f4595.appspot.com</string>
+    <string name="project_id" translatable="false">platzitripsandroid-f4595</string>
 </resources>

@@ -17,7 +17,6 @@ class Review extends StatelessWidget {
       margin: EdgeInsets.only(
           left: 20.0
       ),
-
       child: Text(
         comment,
         textAlign: TextAlign.left,
@@ -72,7 +71,6 @@ class Review extends StatelessWidget {
         userName,
         userInfo,
         userComment
-
       ],
     );
 
@@ -98,8 +96,9 @@ class Review extends StatelessWidget {
     return Row (
       children: <Widget>[
         photo,
-        userDetails
-
+        Flexible(
+          child: userDetails,
+        )
       ],
     );
 

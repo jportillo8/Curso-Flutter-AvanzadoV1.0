@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/platzi-curso-avanzado.iml" filepath="$PROJECT_DIR$/.idea/platzi-curso-avanzado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/curso_flutter_avanzado.iml" filepath="$PROJECT_DIR$/.idea/modules/curso_flutter_avanzado.iml" group="curso_flutter_avanzado" />
     </modules>
   </component>
 </project>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/anahisalgado/Documents/flutter/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "C:\\Users\\USUARIO\\AndroidStudioProjects\\curso_flutter_avanzado\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
-                    "source": "/Users/anahisalgado/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/48cbea78e01ccbe3324be12c1a2d7ed6/res/values-zu/values-zu.xml",
+                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-2\\files-2.1\\fe810123d62617d70efd4ee44d9b1f12\\core-1.0.2\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/anahisalgado/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/d148909e7648b1cccde8d011d10e0258/res/values-zu/values.xml",
+                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-2\\files-2.1\\d5e1386bf7a47852ce82dc1e40d5c635\\play-services-base-17.1.0\\res\\values-zu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/anahisalgado/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/1a4f9d505bb4f6c6226f0f84c36ad3bf/res/values-zu/values.xml",
+                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-2\\files-2.1\\118403a9b5ae19fbdd8a5c3ea6dc654d\\jetified-play-services-basement-17.0.0\\res\\values-zu\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
